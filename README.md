@@ -18,7 +18,7 @@ bundle install
 bin/rails db:create
 bin/rails db:migrate
 ```
-#### To run the tests
+### To run the tests
 ```bash
 bundle exec rspec
 ```
@@ -29,7 +29,6 @@ bin/rails server
 ```
 Then start the server at localhost:3000
 
----
 ## Processes
 * XP (Extreme Programming)
 * Agile
@@ -38,7 +37,7 @@ Then start the server at localhost:3000
 * Remote collaboration
 
 ---
-## Technologies used
+## Technologies Used
 
 * [Ruby](https://www.ruby-lang.org/en/) as the main back-end language
 * [Rails](http://rubyonrails.org/) for the framework
@@ -51,7 +50,5 @@ Then start the server at localhost:3000
 * Vanilla CSS to make it look pretty (no bootstrap here)
 * Git for version managing
 
-## Images
-All images are stored on [Imgur](http://i.imgur.com/1O64JDt.png
-)
-
+## Images
+All images are stored on [Imgur](http://i.imgur.com/1O64JDt.png)
